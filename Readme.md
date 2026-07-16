@@ -1,25 +1,122 @@
-# 💫 About Me:
-<h1>Hi 👋, I'm Jones</h1><br>- 🎓 Computer Science Engineering Student<br>- 💻 Frontend Developer | Mobile App Developer<br>- 🎨 UI/UX Designer who loves creating intuitive experiences<br>- 🚀 Currently building **PrintHub** – Smart Printing Management App<br>- 🌱 Currently exploring Kotlin, Backend Development & DSA<br>- 🤝 Open to collaborate on **Open Source** and **Mobile App Development**<br>- 💬 Ask me about **React, React Native, Figma, Java & UI/UX**<br>- ⚡ Fun fact: I enjoy designing pixel-perfect interfaces before development.
+<h1 align="center">Hi 👋, I'm Jones</h1>
 
+<p align="center">
+  Mobile App Developer • React Native Developer • Frontend Developer • UI/UX Designer
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jones-j06/) [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://jones06.in/)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jones.j8637@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=jones2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=jones2006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jones2006&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jones2006&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jones2006&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;React+Native+Developer;Frontend+Developer;UI%2FUX+Designer;Open+Source+Enthusiast" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=jones2006&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Currently I'm Working On
+
+🖨️ **PrintHub** — A Smart Printing Management App that simplifies document printing for students through an intuitive mobile experience.
+
+---
+
+## 🌱 Currently Learning
+
+- ⚛️ React Native
+- 🔷 TypeScript
+- 🚀 Next.js
+- 🤖 Kotlin
+- ☕ Java & DSA
+- 🎨 Advanced UI/UX Design
+
+---
+
+## 💼 I Have Built
+
+- 🎬 Show Buddy — Movie Discovery App
+- 💳 Credit Management System
+- 🌦️ Weather App
+- 📝 Notes App
+- 📅 Daily Planner
+- 🎵 Music Player UI
+- 🖼️ Wallpaper App
+- 🔐 Authentication UI
+- 📱 Multiple UI/UX Case Studies
+
+---
+
+## 🤝 I'm Looking To
+
+- 🌍 Contribute to Open Source
+- 📱 Collaborate on React Native Projects
+- 💼 Build impactful Web & Mobile Applications
+
+---
+
+## 🛠 Tech Stack
+
+**Languages**
+
+Java • JavaScript • TypeScript • Python
+
+**Frontend**
+
+React • React Native • Next.js • HTML • CSS • Tailwind CSS
+
+**Backend**
+
+Node.js • Express.js • Firebase • Flask
+
+**Design**
+
+Figma • Photoshop • Canva
+
+**Tools**
+
+Git • GitHub • VS Code • Expo
+
+---
+
+## 🌐 Connect With Me
+
+📧 **Email:** jones.j8637@gmail.com
+
+💼 **LinkedIn:** https://linkedin.com/in/jones-j06
+
+🌍 **Portfolio:** https://jones06.in/
+
+---
+
+## 🚀 Featured Projects
+
+### 🖨️ PrintHub
+A Smart Printing Management App that allows students to upload documents, choose print options, and collect prints seamlessly.
+
+🔗 Live Demo *(Coming Soon)* • 📦 Repository
+
+---
+
+### 🎬 Show Buddy
+Movie information application built using React Native and TMDB API with a modern mobile UI.
+
+🔗 Live Demo • 📦 Repository "https://github.com/jones2006/show-buddy--"
+
+---
+
+### 💳 Credit Management System
+A mobile application that helps students manage extracurricular credits and certificates digitally.
+
+📦 Repository "https://github.com/jones2006/Credit-management-app"
+
+---
+
+## 📊 GitHub Analytics
+
+<!-- GitHub Stats -->
+
+---
+
+## 💻 Coding Profiles
+
+- 💛 Skillmax
+- 💙 HackerRank
+
+---
+
+🌱 Learning every day, building with passion, and growing as a developer.
