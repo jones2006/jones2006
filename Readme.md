@@ -51,27 +51,9 @@
 
 ## 🛠 Tech Stack
 
-**Languages**
-
-Java • JavaScript • TypeScript • Python
-
-**Frontend**
-
-React • React Native • Next.js • HTML • CSS • Tailwind CSS
-
-**Backend**
-
-Node.js • Express.js • Firebase • Flask
-
-**Design**
-
-Figma • Photoshop • Canva
-
-**Tools**
-
-Git • GitHub • VS Code • Expo
-
----
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,javascript,typescript,react,reactnative,nextjs,nodejs,express,java,python,flask,firebase,figma,photoshop,git,github,vscode,expo" />
+</p>
 
 ## 🌐 Connect With Me
 
