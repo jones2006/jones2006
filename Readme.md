@@ -9,6 +9,18 @@
 </h1>
 
 ---
+## 🌱 Currently Learning
+
+- ⚛️ React Native
+- 🔷 TypeScript
+- 🚀 Next.js
+- 🤖 Kotlin
+- ☕ Java & DSA
+- 🎨 Advanced UI/UX Design
+
+---
+
+---
 
 ## 🚀 Featured Projects
 
@@ -36,17 +48,6 @@ A mobile application that helps students manage extracurricular credits and cert
 ## 🚀 Currently I'm Working On
 
 🖨️ **Connectingprinter** — A Smart Printing Management App that simplifies document printing for students through an intuitive mobile experience.
-
----
-
-## 🌱 Currently Learning
-
-- ⚛️ React Native
-- 🔷 TypeScript
-- 🚀 Next.js
-- 🤖 Kotlin
-- ☕ Java & DSA
-- 🎨 Advanced UI/UX Design
 
 ---
 
@@ -93,7 +94,6 @@ A mobile application that helps students manage extracurricular credits and cert
 ## 📊 GitHub Analytics
 
 <!-- GitHub Stats -->
-
 ---
 
 ## 💻 Coding Profiles
