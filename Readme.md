@@ -45,9 +45,11 @@ A mobile application that helps students manage extracurricular credits and cert
 
 ---
 
-## 🚀 Currently I'm Working On
+## 🛠 Tech Stack
 
-🖨️ **Connectingprinter** — A Smart Printing Management App that simplifies document printing for students through an intuitive mobile experience.
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,javascript,typescript,react,reactnative,nextjs,nodejs,express,java,python,flask,firebase,figma,photoshop,git,github,vscode,expo" />
+</p>
 
 ---
 
@@ -73,11 +75,9 @@ A mobile application that helps students manage extracurricular credits and cert
 
 ---
 
-## 🛠 Tech Stack
+## 🚀 Currently I'm Working On
 
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwindcss,javascript,typescript,react,reactnative,nextjs,nodejs,express,java,python,flask,firebase,figma,photoshop,git,github,vscode,expo" />
-</p>
+🖨️ **Connectingprinter** — A Smart Printing Management App that simplifies document printing for students through an intuitive mobile experience.
 
 ---
 
